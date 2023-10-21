@@ -56,3 +56,11 @@ local Tab = Window:MakeTab({
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
+
+
+
+local Tab = Window:MakeTab({
+	Name = "Race V4",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
